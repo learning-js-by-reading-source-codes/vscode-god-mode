@@ -1,6 +1,6 @@
-# VSCODE POWER MODE!!!
+# VSCODE GOD MODE!!!
 
-Power Mode is one of the most requested extensions for VS Code. Unfortunately, they said it couldn't be done...
+God Mode is one of the most requested extensions for VS Code. Unfortunately, they said it couldn't be done...
 
 ![not-implementable](images/not-implementable.png)
 
